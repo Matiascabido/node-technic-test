@@ -11,3 +11,42 @@ Airbus420.
 
 Tener en cuenta que el tamaño del archivo, los dias de promosiones se suele vender mas pasajes.
 Por lo que se debe considerar que a veces los archivos pueden llegar a pesar 2 a 3 Gb.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PARA PODER CORRER ESTE EJEMPLOR SE DEBE RALIZAR:
+* npm install [para agregar la carpeta node_modules]
+* cambiar en el package.json, la ruta del script 'start', ya que los archivos fueron migrados hacia una carpeta.
+* Se debe poder correr Docker con normalidad
+
+
+
+
